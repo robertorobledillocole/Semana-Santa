@@ -1,1 +1,2 @@
 dia 1: cama
+dia 2:platos
